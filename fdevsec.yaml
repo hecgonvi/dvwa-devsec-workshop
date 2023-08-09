@@ -18,7 +18,7 @@ languages:
   - javascript
      
 dast:
-  url: <your.url.com>
+  url: https://3289dc96-36cd-11ee-be56-0242ac120002.eastus.azurecontainer.io/login.php
   full_scan: true #true|false
 
 resource:
